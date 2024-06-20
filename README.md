@@ -9,13 +9,15 @@
 ## Descrição
 
 
-## Funcionalidades Principais
+## Funcionalidades Previstas
 
-- Controle de versão
-- Gerenciamento de projetos
-- Colaboração em equipe
-- Documentação de código
-- E muito mais!
+1. Sensor de corredor
+2. Sensor de proximidade
+3. Sensor de faixa de segurança
+4. Sensor de quebra-mola
+5. IMU (Orientação da moto) os angulos de inclinação e direção
+   
+
 
 ## Instalação
 
@@ -25,6 +27,7 @@ pip install
 ```
 
 Certifique-se de que você tem o Python configurado corretamente em seu ambiente.
+
 
 ## Uso
 
@@ -53,5 +56,7 @@ Agradecemos antecipadamente por suas contribuições!
 
 O MotoLink é distribuído sob a licença [Nome da Licença](LICENSE.md). Consulte o arquivo [LICENSE.md](LICENSE.md) para obter detalhes sobre os termos de uso.
 
+
 ```
+
 
