@@ -17,6 +17,7 @@
 4. Sensor de quebra-mola
 5. IMU (Orientação da moto) os angulos de inclinação e direção
 6. Estação de monitoramento com sensores (avançado)
+7. Sensor de chão em linha (laser)
    
 
 
