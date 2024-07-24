@@ -19,7 +19,8 @@
 6. Estação de monitoramento com sensores (avançado)
 7. Sensor de chão em linha (laser)
 8. Multimídia para visualização
-9. Aviso de fiscalização eletronica (Javier+ GIS) 
+9. Aviso de fiscalização eletronica (Javier+ GIS)
+10. Dinamômetro portatil
    
 
 
